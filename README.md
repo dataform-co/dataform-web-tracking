@@ -8,6 +8,9 @@ Dataform is a collaborative data modelling platform that enables analysts and en
 ## Features requests
 We are tracking features requests from users here to prioritise what is important for our users. Please [file an issue](https://github.com/tada-science/dataform/issues/new) and we'll answer you as soon as possible.
 
+## Releases
+We use this repository to track the releases notes of Dataform, you can find all releases notes [here](https://github.com/tada-science/dataform/releases).
+
 
 ## More
 

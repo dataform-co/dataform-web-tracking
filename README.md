@@ -1,4 +1,4 @@
-![Dataform logo](https://dataform.co/assets/images/logo.png)
+![Dataform logo](https://docs.dataform.co/static/images/logo_with_text.svg)
 
 # dataform
 

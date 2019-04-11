@@ -1,4 +1,4 @@
-![Dataform logo](https://docs.dataform.co/static/images/logo_with_text.svg)
+![Dataform logo](https://static.dataform.co/images/new_logo_with_text.svg)
 
 # dataform
 
@@ -9,7 +9,7 @@ Dataform is a collaborative data modelling platform that enables analysts and en
 We are tracking features requests from users here to prioritise what is important for our users. Please [file an issue](https://github.com/tada-science/dataform-tracking/issues/new) and we'll answer you as soon as possible.
 
 ## Releases
-We use this repository to track the releases notes of Dataform, you can find all releases notes [here](https://github.com/tada-science/dataform-tracking/releases).
+We use this repository to track public issues and releases notes for Dataform, you can find all releases notes [here](https://github.com/tada-science/dataform-tracking/releases).
 
 
 ## More

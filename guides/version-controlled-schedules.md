@@ -18,7 +18,7 @@ On the overview page you should see the following:
 
 ![migrate callout](migrate-callout.png)
 
-# 3. Check your new schedules configuration is correct
+## 3. Check your new schedules configuration is correct
 
 After clicking the button, a new file called `schedules.json` will be created. This will automatically open, and you should see the normal schedule configuration page like so.
 
@@ -26,7 +26,7 @@ After clicking the button, a new file called `schedules.json` will be created. T
 
 You can also view the raw JSON by flipping the toggle at the top of the file.
 
-# 4. Commit and push
+## 4. Commit and push
 
 If you are happy, commit the changes and push them back to production. Once in the production/master branch, they will override the original schedules configured.
 

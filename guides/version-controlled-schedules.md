@@ -16,10 +16,18 @@ Open your Dataform project and go to a clean development branch (or create a new
 
 On the overview page you should see the following:
 
+![migrate callout](migrate-callout.png)
 
+# 3. Check your new schedules configuration is correct
 
+After clicking the button, a new file called `schedules.json` will be created. This will automatically open, and you should see the normal schedule configuration page like so.
 
-This means that when creating a new action (table, assertion, operation) you have to:
-- Commit your new file and push it to production/master
-- G to the production branch and add it to a schedule
+![schedules json view](schedules-json-view.png)
 
+You can also view the raw JSON by flipping the toggle at the top of the file.
+
+# 4. Commit and push
+
+If you are happy, commit the changes and push them back to production. Once in the production/master branch, they will override the original schedules configured.
+
+As always, please reach out to the team on intercom or at team@dataform.co if you have any questions!

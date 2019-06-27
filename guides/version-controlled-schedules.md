@@ -14,7 +14,7 @@ Open your Dataform project and go to a clean development branch (or create a new
 
 ## 2. Use the migration tool
 
-On the overview page you should see the following:
+On the overview page of any development branch you should see the following:
 
 ![migrate callout](migrate-callout.png)
 

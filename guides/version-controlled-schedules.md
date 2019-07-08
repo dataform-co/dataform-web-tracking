@@ -1,6 +1,6 @@
 # Version controlled schedules migration
 
-Up until now, schedules configured in Dataform Web have not been part of version control and could only be configured in the production branch,
+Up until now, schedules configured in Dataform Web have not been part of version control and could only be configured in the production branch.
 
 We felt that this led to a confusing user experience, requiring you to create new files and add them to schedules in seperate places.
 
